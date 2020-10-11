@@ -24,6 +24,6 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  square = math.srt#{num}
+  square = num.math.srt
   square
 end
